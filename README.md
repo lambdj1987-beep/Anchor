@@ -12,3 +12,7 @@ The app saves reflections in the browser only; it does not sync between browsers
 
 ## Content
 Seven original themed reading sets rotate by local calendar date. The Scripture text uses KJV passages. Philosophy and recovery explanations are original summaries rather than attributed verbatim quotations or official AA publications. The readings are prepared, not AI-generated.
+
+
+## Version 1.2
+28-day themes, guided/read-all sessions, local journal with free writing and weekly review, prayer journal, wisdom bookmarks, text-to-speech, grounding, and private full backup. Existing `anchor-journal-v1` data is preserved. Before updating, export your existing journal and keep the backup private.
